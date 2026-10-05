@@ -1,6 +1,6 @@
-x = float(input("whats x? "))
+x = float(input("enter the first number "))
 
-y = float(input("whats y? "))
+y = float(input("enter the second number "))
 z = x / y
 
-print(f"Division: {z}")
+print(f"addition: {x + y}")
